@@ -6,7 +6,8 @@ Project ini dibangun sebagai bagian dari proses upgrade dari **Frontend Develope
 
 Use case saat ini adalah membantu karyawan dan HR dalam mengelola data karyawan dan proses cuti secara terpusat melalui API.
 
----
+## Notion Bisnis flow
+https://www.notion.so/Project-full-stack-v1-2e0802079820806394f6cc9b257b323a
 
 ## 🎯 Project Context
 
